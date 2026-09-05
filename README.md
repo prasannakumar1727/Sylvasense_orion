@@ -2,7 +2,7 @@
 
 **Canopy density, forest-change detection & aboveground biomass (AGB) estimation from open satellite imagery.**
 
-> ORION 1.0 — ORION-PS-03 (Earth Observation AI) · Team: `[your team name]`
+> ORION 1.0 — ORION-PS-03 (Earth Observation AI) · Team: Core Signal
 
 SylvaSense is a satellite-driven monitoring pipeline that fuses Sentinel-2 optical and
 Sentinel-1 SAR imagery (via Google Earth Engine) into repeatable, explainable canopy
